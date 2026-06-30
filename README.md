@@ -30,7 +30,17 @@ This project helps users manage their income and expenses with a clean interface
 ![exxpense tracker](./images/Screenshot2.png)
 ![exxpense tracker](./images/Screenshot3.png)
 ---
+## Live Demo : 
 
 ## Project Structure
 ```bash
+Expense tracker/
+├── images/
+│   ├── Screenshot1.png
+│   └── Screenshot2.png
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
 
