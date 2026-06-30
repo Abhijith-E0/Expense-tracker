@@ -30,7 +30,8 @@ This project helps users manage their income and expenses with a clean interface
 ![exxpense tracker](./images/Screenshot2.png)
 ![exxpense tracker](./images/Screenshot3.png)
 ---
-## Live Demo : https://abhijith-e0.github.io/Expense-tracker/
+## Live Demo
+live link : https://abhijith-e0.github.io/Expense-tracker/
 ---
 ## Project Structure
 ```bash
